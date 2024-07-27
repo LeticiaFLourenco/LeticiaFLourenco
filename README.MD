@@ -1,6 +1,4 @@
-Claro! Aqui está um exemplo de README para o seu GitHub:
 
----
 
 # Bem-vindo ao meu GitHub!
 
